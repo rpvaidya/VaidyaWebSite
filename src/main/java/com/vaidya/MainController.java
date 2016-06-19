@@ -11,12 +11,12 @@ import org.springframework.web.bind.annotation.RestController;
 public class MainController {
 
 	
+	@Autowired
 	@RequestMapping("/test")
-	
 	String test()
 	{
-	
-		try {
+		
+/*		try {
 			testRedis();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -34,6 +34,8 @@ public class MainController {
 		String HashValue = "004056172"; 
 		ops.putIfAbsent(hash, hashKey, HashValue);
 		System.out.println("Found key " + hash + ", value=" + ops.get(hash, hashKey));
-	}
+	}*/
+		return "TEst Screen";
 
+}
 }
