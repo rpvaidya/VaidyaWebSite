@@ -1,9 +1,14 @@
 package com.vaidya;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 
+import javax.servlet.ServletContext;
+
+import org.hibernate.jpa.boot.spi.InputStreamAccess;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobExecutionListener;
 import org.springframework.batch.core.Step;
@@ -19,6 +24,7 @@ import org.springframework.batch.item.file.mapping.DefaultLineMapper;
 import org.springframework.batch.item.file.transform.DelimitedLineTokenizer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
@@ -49,6 +55,9 @@ public class UpdateAccounts {
 
 	@Autowired
 	public StepBuilderFactory stepBuilderFactory;
+	
+	@Autowired
+	  private ServletContext appContext;
 
 	@Autowired
 	// public DataSource dataSource;
@@ -56,7 +65,9 @@ public class UpdateAccounts {
 	// tag::readerwriterprocessor[]
 	@Bean
 	public FlatFileItemReader<Accounts> reader() throws DbxException, IOException {
-		this.downLoadPIMFile();
+		String filePath = this.downLoadPIMFile();
+		String realPath = appContext.getRealPath("/");
+		
 		FlatFileItemReader<Accounts> reader = new FlatFileItemReader<Accounts>();
 		reader.setResource(new ClassPathResource("PIM DB 01.csv"));
 		reader.setLinesToSkip(1);
@@ -83,7 +94,7 @@ public class UpdateAccounts {
 		return new AccountsItemProcessor();
 	}
 
-	private boolean downLoadPIMFile() throws DbxException, IOException {
+	private String downLoadPIMFile() throws DbxException, IOException {
 		
 		DbxRequestConfig config = new DbxRequestConfig("Vaidya-Dropbox");
 //        DbxRequestConfig config = new DbxRequestConfig("dropbox/java-tutorial", "");
@@ -100,8 +111,9 @@ public class UpdateAccounts {
            FileOutputStream jpegStream = new FileOutputStream(testFile);
            downloader.download(jpegStream);
            jpegStream.close();
+           String filePath = testFile.getAbsolutePath();
            
-           return true;
+           return filePath;
 
 	}
 

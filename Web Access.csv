@@ -1,0 +1,59 @@
+Type,Account_Number,Description,Valid_From,Valid_To,Address,Name,Provider,Customer_Service_Number,Web_Access,UID,PWD,Notes,password,Search
+WA,,Evernote Note taking app,,,,,Evernote,,https://www.evernote.com/Login.action?targetUrl=%2FHome.action,rpvaidya,Std 2,,UnV4*RBq,Evernote Note taking app
+WA,,Twitter,,,,,Twitter,,https://twitter.com/oauth/authorize,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Twitter
+WA,,ICICI Transaction,,,,,ICICI Txn Pwd,,https://infinity.icicibank.co.in/BANKAWAYTRAN;jsessionid=00019ZbANuCS1l68wLqeebnEc4X:156760ard?bwayparam=YKcvEf9gHtGZ2g%3D%3D,,TStd,,T8mVzgbqe,ICICI Transaction
+WA,,Airtel,,,,,Airtel,,https://auth.airtellive.com/central-authn?bharti-net&amp;https://ebpp.airtelworld.com/cares/wps/myportal,rpvaidya,Std,,8mVzgbqe,Airtel
+WA,,Facebook,,,,,Face Book,,https://www.facebook.com/login.php,raghavendra.vaidya@gmail.com,Std 2,,UnV4*RBq,Facebook
+WA,,Amazon login,,,,,Amazon,,https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fshiptrack%2Fview.html%3Fie%3DUTF8%26addressID%3Djhrlkupop%26trackingNumber%3D1ZA50W201345143658%26latestArrivalDate%3D1295582400%26shipMethod%3DUPS_NEXT_SAVER_COM%26orderID%3D102-3555103-6389809%26ref%3D%26shipmentDate%3D1295478379%26carrierId%3DUPS&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.pape.max_auth_age=900&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select,raghavendra.vaidya@gmail.com,Sentence Nox,Pay Phrease : Dark Black Platinum / 7571,UnV4*RBq,Amazon login
+WA,,India Railways,,,,,Railways,,http://irctc.co.in,vaidyaragh,Std,,8mVzgbqe,India Railways
+WA,251790,Club Mahindra,,,,,Club Mahindra,9.1804E+11,http://clubmahindra.com/ms_login.asp,154799,Sentence + Spl Char,Membership # : 251790,,Club Mahindra
+WA,,Bajaj Allianz,,,,,bajajallianz.com,,http://www.bajajallianz.com,raghavendra.vaidya@gmail.com,,,Rpv1971Rpv,Bajaj Allianz
+WA,,Indigo,,,,,book.goindigo.in,,http://book.goindigo.in,rpvaidya,Std,,8mVzgbqe,Indigo
+WA,,Google,,,,,google.com,,https://www.google.com/accounts/ServiceLogin?continue=http://www.google.com/ig&amp;followup=http://www.google.com/ig&amp;service=ig&amp;passive=true&amp;cd=US&amp;hl=en&amp;nui=1&amp;ltmpl=default,raghavendra.vaidya,Std 2,,,Google
+WA,,Linked In,,,,,linkedin.com,,https://www.linkedin.com/secure/login?session_redirect=http%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Ftrk%3Deml-plat-b-pro_txt-yir_1%26id%3D3131462,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Linked In
+WA,,Vaishnodevi,,,,,maavaishnodevi.org,,https://www.maavaishnodevi.org,vaidyarp,Std,,8mVzgbqe,Vaishnodevi
+WA,,Tata Sky,,,,,Tata Sky,,https://www.mytatasky.com/portal/auth/portal/subs/Launch;jsessionid=FAD094624D1287110B5BC591B8913456.node2,9611510088,Std,,8mVzgbqe,Tata Sky
+WA,,Yatra,,,,,Yatra,,https://secure.yatra.com/checkout/newreviewpage.htm?productSearchId=e1754de5-7b93-417d-ae55-e75f04514afe,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Yatra
+WA,,eBay - India,,,,,eBay India,,https://signin.ebay.in,vaidya.raghavendra,Std,,8mVzgbqe,eBay - India
+WA,,Ted,,,,,ted.com,,http://www.ted.com,rpvaidya,Std,,8mVzgbqe,Ted
+WA,,Office Insurance,,,,,uhcindia.com,,https://www.uhcindia.com,GEMo302000545,Std,,8mVzgbqe,Office Insurance
+WA,,Apple Store,,,,,store.apple.com,,https://store.apple.com/,raghavendra.vaidya@gmail.com,Sentence + Spl Char,,Ilhswmwa24x7,Apple Store
+WA,,eSeva Passport,,,,,eSeva,,http://esevaonline.com/,rpvaidya,Std,,8mVzgbqe,eSeva Passport
+WA,,Uttaradhi math,,,,,uttaradimath.org,,http://www.uttaradimath.org/web/index.php?option=com_comprofiler&amp;task=registers,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Uttaradhi math
+WA,,Office Insurance,,,,,Insurance,,https://www.mediassistindia.com/Login.aspx?LoginTypeID=2,302000545@GEGlob,,,T[b662082,Office Insurance
+WA,,Trip Case,,,,,Trip Case,,https://www.tripcase.com/sessions?.r=1,raghavendra1.vaidya@ge.com,Std,,8mVzgbqe,Trip Case
+WA,,Income Tax,,,,,IncomeTax,,https://incometaxindiaefiling.gov.in/portal/login.do,ABLPV8199D,Std 2,,UnV4*RBq,Income Tax
+WA,,Drop Box,,,,,Drop Box,,https://www.dropbox.com/,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Drop Box
+WA,,Indigo,,,,,Indigo,,http://book.goindigo.in/skylights/cgi-bin/skylights.cgi,raghavendra.vaidya@gmail.com,Std 2,,UnV4*RBq,Indigo
+WA,,Flipkart,,,,,Flipkart,,http://www.flipkart.com/,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Flipkart
+WA,,BSNL,,,,,BSNL,,http://portal.bsnl.in/portal/aspxfiles/login.aspx,vaidyarp,Std,,8mVzgbqe,BSNL
+WA,,Total Immersion,,,,,Total Immersion,,http://www.totalimmersion.net/component/user/#content,rpvaidya,Std,,8mVzgbqe,Total Immersion
+WA,,VRL,,,,,vrllogistics.in,,http://www.vrllogistics.in/newtrvl/index.aspx#,raghavendra.vaidya@gmail.com,,,Anita,VRL
+WA,,Passport Seva Kendra,,,,,Passport Seva Kendra,,https://portal2.passportindia.gov.in/AppOnlineProject/user/userLoginValidateAction?request_locale=en&amp;userName=RAGHAVENDRA.VAIDYA%40GMAIL.COM,RPVAIDYA,Std,,8mVzgbqe,Passport Seva Kendra
+WA,,Union Bank of India,,,,,UBI,,https://www.unionbankonline.co.in/corp/BANKAWAY?Action.RetUser.Init.001=Y&amp;AppSignonBankId=026&amp;AppType=corporate,200373020,TStd 2,,TUnV4*RBq,Union Bank of India
+WA,,India Time shopping,,,,,India Times Shopping,,http://shopping.indiatimes.com/control/checkLogin,raghavendra.vaidya@gmail.com,Std 2,,UnV4*RBq,India Time shopping
+WA,,Apartmenta Adda,,,,,Jasmine Adda,,https://apartmentadda.com/home/login_page.php,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Apartmenta Adda
+WA,,Bangalore One,,,,,Bangalore One,,https://www.bangaloreone.gov.in/login.aspx,rpvaidya,Std,,8mVzgbqe,Bangalore One
+WA,,Microsoft Account,,,,,Microsoft Sky Drive,,https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=12&amp;ct=1396405719&amp;rver=6.4.6456.0&amp;wp=MBI_SSL_SHARED&amp;wreply=https:%2F%2Fonedrive.live.com%2F%3Fgologin%3D1%26mkt%3Den-US&amp;lc=1033&amp;id=250206&amp;cbcxt=sky&amp;mkt=en-US&amp;cbcxt=sky,raghavendra.vaidya@outlook.com,Std 2,,UnV4*RBq,Microsoft Account
+WA,,Open Subtitles,,,,,opensubtitles.org,,http://www.opensubtitles.org/en/login,rpvaidya,Std,,8mVzgbqe,Open Subtitles
+WA,,Wolfram programming,,,,,Wolfram,,https://user.wolfram.com,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Wolfram programming
+WA,,Unit Trust of India,,,,,UTI Vaidya,,https://www.utimf.com/_login/utilogin.aspx,raghavendra.vaidya@gmail.com,Std 2,,UnV4*RBq,Unit Trust of India
+WA,,Coursera,,,,,Coursera,,https://accounts.coursera.org/signin?post_redirect=https%3A%2F%2Fwww.coursera.org%2F,raghavendra.vaidya@gmail.com,Std 2,,UnV4*RBq,Coursera
+WA,,Plex,,,,,Plex,,https://plex.tv/users/sign_in,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Plex
+WA,,Git hub,,,,,Git Hub,,https://github.com/session,rpvaidya,Std,,8mVzgbqe,Git hub
+WA,,Instapaper,,,,,Instapaper,,https://www.instapaper.com/,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Instapaper
+WA,,My Universe,,,,,My Universe,,https://www.myuniverse.co.in/SitePages/MFSignin.aspx,raghavendra.vaidya@gmail.com,Sentence Nox,,Ilhswmwa24x7,My Universe
+WA,,Emirates,,,,,Emirates,,https://www.emirates.com/account/in/English/login/login.aspx?refUrl=%2faccount%2fin%2fEnglish%2fmanage-account%2fcontact-details%2findex.aspx%3fcid%3demail_mc_ADDR_CNFRM,raghavendra.vaidya@gmail.com,Std 2 + 5,,UnV45RBq,Emirates
+WA,,Udacity,,,,,Udacity,,https://www.udacity.com/account/auth#!/signin,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Udacity
+WA,,IDFC Mutual Fund,,,,,IDFC,,https://mfonline.idfcmf.com/,rpvaidya,Std 2,,UnV4*RBq,IDFC Mutual Fund
+WA,,Packet Publication,,,,,Packet Pub,,https://www.packtpub.com/hardware-and-creative/raspberry-pi-home-automation-blueprints#,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Packet Publication
+WA,,Think Vidya Tutoring,,,,,Think Vidya,,http://www.thinkvidya.com,raghavendra.vaidya@gmail.com,Std 2,,UnV4*RBq,Think Vidya Tutoring
+WA,,Delyver,,,,,delyver.com,,http://www.delyver.com/#login,9611510088,Std,,8mVzgbqe,Delyver
+WA,,Oracle,,,,,Oracle,,https://login.oracle.com/mysso/signon.jsp,raghavendra.vaidya@gmail.com,Std,,8mVzgbqe,Oracle
+WA,,PF,,,,,PF,,http://uanmembers.epfoservices.in/index.php,1.00317E+11,Std 2,,Ilhswmwa24$7,PF
+WA,,Edumerge,,,,,Edumerge : Amogh School,,http://edumerge.com/,raghavendra.vaidya@gmail.com,,,48267,Edumerge
+WA,,MY CAMS,,,,,My CAMS,,https://www.camsonline.com/MyCAMS.aspx,raghavendra.vaidya@gmail.com,Sentence + Spl Char,,,MY CAMS
+WA,,HDFC Home Owners Insurance,,,,,HDFC Home Insurance,,https://www.hdfcergo.com/,raghavendra.vaidya@gmail.com,Std,,,HDFC Home Owners Insurance
+WA,,Safari Books Online,,,,,Safari books online - GE,,http://www.safaribooksonline.com/register-topics/,rpvaidya,Std,,,Safari Books Online
+WA,,SAT Website,,,,,SAT Website,,https://www.collegeboard.org/,arvaidya,Std,,,SAT Website
+WA,,HDFC Mutual Fund,,,,,HDFC Mutual Fund,,https://investor.hdfcfund.com/mfonline/HDFCMain.aspx,9583683,Std 2,,,HDFC Mutual Fund
