@@ -6,6 +6,8 @@
 <meta name="description" content="A description of your website">
 <meta name="keywords" content="keyword1, keyword2, keyword3">
 <link href="css/style.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="css/form-search.css">
+
 </head>
 <body>
 
@@ -22,18 +24,20 @@
 
   <div id="page_content">
 
-    <div class="navigation">
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Products</a></li>
-        <li><a href="#">Clients</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Resources</a></li>
-        <li><a href="#">Extra</a></li>
-      </ul>
+
+    <div class="main-content">
+
+        <!-- You only need this form and the form-search.css -->
+
+        <form class="form-search" method="get" action="#">
+            <input type="search" name="search" placeholder="I am looking for..">
+            <button type="submit">Search</button>
+            <i class="fa fa-search"></i>
+        </form>
+
     </div>
+        
+
 
     <div class="left_side_bar"> 
 
@@ -45,7 +49,7 @@
             <li><a href="https://online.hdfc.com/inet/" target = "_blank"> Manage Home Loan</a></li>
             <li><a href="#">Manage Credit</a></li>
             <li><a href="#">Manage AMEX</a></li>
-            <li><a href="#">Manage Investments</a></li>
+            <li><a href="ManageAccounts.html">Manage Accounts</a></li>
             <li><a href="#">Menu Item 7</a></li>
             <li><a href="#">Menu Item 8</a></li>
             <li><a href="#">Menu Item 9</a></li>
