@@ -1,0 +1,76 @@
+belongs,number,category,description,valid_from,valid_to,address,name,web_address,uid,pwd,hash_key
+vaidya,,Apple,Apple itunes account,,,,,https://store.apple.com/,raghavendra.vaidya@gmail.com,Ilhs....t,vaidya.itunes
+vaidya,,Could,Drop Box,,,,,https://www.dropbox.com/,raghavendra.vaidya@gmail.com,8m...qe,vaidya.dropbox
+vaidya,4032506499153750,Finance,SBI Credid Card,,11/20,"4045, Sobha Jasmine:Green Glen Layout:Outer Ring Road:Bellandur: Bangalore - 560103",R P Vaidya,https://www.sbicard.com/,RAGHAVENDRA.VAIDYA,Ilh....f,vaidya.sbi.cc
+vaidya,376933012601009,Finance,American Express (Amex) credicard,,12/17,"4045, Sobha Jasmine:Green Glen Layout:Outer Ring Road:Bellandur: Bangalore - 560103",Raghavendra Vaidya,https://www.americanexpress.com/in/,rpvaidya,Ilh....f,vaidya.amex.cc
+vaidya,441140074056,Finance,HDFC Salary account,,,"4045, Sobha Jasmine:Green Glen Layout:Outer Ring Road:Bellandur: Bangalore - 560103",Raghavendra P Vaidya,https://netbanking.hdfcbank.com/netbanking/,25157542,Ilh....f,vaidya.hdfc.savings
+anita,50100071447349,Finance,HDFC Savings account,,,"4045, Sobha Jasmine:Green Glen Layout:Outer Ring Road:Bellandur: Bangalore - 560103",Anita Raghavendra Vaidya,https://netbanking.hdfcbank.com/netbanking/,58527535,Ilh....f,anita.hdfc.savings
+vaidya,4386243407358430,Finance,HDFC Debit Card,,11/24,"4045, Sobha Jasmine:Green Glen Layout:Outer Ring Road:Bellandur: Bangalore - 560103",Raghavendra P Vaidya,https://netbanking.hdfcbank.com/netbanking/,,,vaidya.hdfc.dc
+vaidya,18301553519,Finance,ICICI Savings account,,,"4045, Sobha Jasmine:Green Glen Layout:Outer Ring Road:Bellandur: Bangalore - 560103",Raghavendra P Vaidya,http://www.icicibank.com/Personal-Banking/insta-banking/internet-banking/index.page,522622129,Ilh....f,vaidya.icici.savings
+vaidya,616284998,Finance,HDFC Villa Loan,,,"4045, Sobha Jasmine:Green Glen Layout:Outer Ring Road:Bellandur: Bangalore - 560103",,http://hdfc.com,VAIDRP71,Ilh....f,vaidya.hdfc.loan.villa
+vaidya,616283636,Finance,HDFC Nandini layout house loan,,,"4045, Sobha Jasmine:Green Glen Layout:Outer Ring Road:Bellandur: Bangalore - 560103",,http://hdfc.com,VAIDRP71,Ilh....f,vaidya.hdfc.loan.nandini
+vaidya,616577338,Finance,HDFC Insurance loan,,,"4045, Sobha Jasmine:Green Glen Layout:Outer Ring Road:Bellandur: Bangalore - 560103",,http://hdfc.com,VAIDRP71,Ilh....f,vaidya.hdfc.loan.insurance
+vaidya,,Finance,ICICI Transaction,,,,,,,T + Std,vaidya.icici.txn
+vaidya,5.17269E+11,Finance,UTI Mutual fund,,,,,https://online.utimf.com/General/Login.aspx,raghavendra.vaidya@gmail.com,Ilh....f,vaidya.uti.mf
+vaidya,,Finance,My Universe Investment account,,,,,https://www.myuniverse.co.in/SitePages/MFSignin.aspx,raghavendra.vaidya@gmail.com,Ilh....f,vaidya.myuniverse.investment
+vaidya,,Finance,IDFC Mutual Fund,,,,,https://mfonline.idfcmf.com/,rpvaidya,Std 2,vaidya.idfc.mf
+vaidya,,Finance,MY CAMS Investment account,,,,,https://www.camsonline.com/MyCAMS.aspx,raghavendra.vaidya@gmail.com,Ilh....f,vaidya.mycams.investment
+vaidya,,Finance,HDFC Home Owners Insurance,,,,,https://www.hdfcergo.com/,raghavendra.vaidya@gmail.com,Ilh....f,vaidya.hdfc.insurance
+vaidya,,Finance,HDFC Mutual Fund,,,,,https://investor.hdfcfund.com/mfonline/HDFCMain.aspx,9583683,Std 2,vaidya.hdfc.mf
+vaidya,,General,Vaishnodevi,,,,,https://maavaishnodevi.org,vaidyarp,Std,vaidya.vaishnodevi
+vaidya,,General,Ted,,,,,http://ted.com,rpvaidya,Std,vaidya.ted
+vaidya,,GEneral,Uttaradhi math,,,,,http://uttaradimath.org/,raghavendra.vaidya@gmail.com,Std,vaidya.uttradimath
+vaidya,,General,Total Immersion,,,,,http://www.totalimmersion.net/component/user/#content,rpvaidya,Std,vaidya.totalimmersion
+vaidya,,GEneral,Apartmenta Adda,,,,,https://apartmentadda.com/home/login_page.php,raghavendra.vaidya@gmail.com,Std,vaidya.apartmentadda
+vaidya,,General,Bangalore One,,,,,https://www.bangaloreone.gov.in/login.aspx,rpvaidya,Std,vaidya.bangaloreone
+vaidya,,General,Open Subtitles,,,,,http://www.opensubtitles.org/en/login,rpvaidya,Std,vaidya.opensubtitles
+vaidya,,General,Plex,,,,,https://plex.tv/users/sign_in,raghavendra.vaidya@gmail.com,Std,vaidya.plex
+vaidya,,General,Gartner,,,,,,raghavendra1.vaidya@ge.com,Std Sen + G,vaidya.gartner
+vaidya,,Google,Google,,,,,https://mail.google.com,raghavendra.vaidya,Std 2,vaidya.google
+vaidya,,House Hold,Tata Sky,,,,,http://tatasky.com,9611510088,Std,vaidya.tatasky
+vaidya,,Insurance,LIC Life Insurance,,,,Raghavendra P Vaidya,https://customer.onlinelic.in/LICEPS/Login/begin.do,rpvaidya,HDFC,vaidya.lic.insurance
+vaidya,,Insurance,Aviva Life Insurance,,,,,https://online.avivaindia.com/econnect/login.aspx,50010332,Std 2,vaidya.aviva.insurance
+vaidya,,Insurance,Bajaj Allianz Vehicle Insurance,,,,,http://www.bajajallianz.com,raghavendra.vaidya@gmail.com,,vaidya.bajaj.insurance
+vaidya,,Insurance,GE Group Insurance,,,,,https://www.uhcindia.com,GEMo302000545,Std,vaidya.uhc.insurance
+vaidya,,Insurance,GE Group Insurance,,,,United HEalth Insurance,https://www.uhcpindia.com/web/login/customerlogin.aspx,GEGR302000545,Std,
+vaidya,,Learning,Wolfram programming,,,,,https://user.wolfram.com,raghavendra.vaidya@gmail.com,Std,vaidya.wolfarm.learn
+vaidya,,LEarning,Coursera,,,,,https://accounts.coursera.org/signin?post_redirect=https%3A%2F%2Fwww.coursera.org%2F,raghavendra.vaidya@gmail.com,Std 2,vaidya.coursera.learn
+vaidya,,Learning,Git hub,,,,,https://github.com/session,rpvaidya,Std,vaidya.github.learn
+vaidya,,LEarning,Udacity,,,,,https://www.udacity.com/account/auth#!/signin,raghavendra.vaidya@gmail.com,Std,vaidya.udacity.learn
+vaidya,,Learning,Packet Publication,,,,,https://www.packtpub.com/hardware-and-creative/raspberry-pi-home-automation-blueprints#,raghavendra.vaidya@gmail.com,Std,vaidya.packetpub.learn
+vaidya,,Learning,Think Vidya Tutoring,,,,,http://www.thinkvidya.com,raghavendra.vaidya@gmail.com,Std 2,vaidya.thinkvidya.learn
+vaidya,,Learning,Oracle,,,,,https://login.oracle.com/mysso/signon.jsp,raghavendra.vaidya@gmail.com,Std,vaidya.oracle
+vaidya,,Learning,Safari Books Online,,,,,http://www.safaribooksonline.com/register-topics/,rpvaidya,Std,vaidya.safari.learn
+vaidya,,Microsoft,Microsoft Account,,,,,http://outlook.com,raghavendra.vaidya@outlook.com,Std 2,vaidya.microsoft
+vaidya,,Mobile,Airtel,,,,,https://auth.airtellive.com/central-authn?bharti-net&amp;https://ebpp.airtelworld.com/cares/wps/myportal,rpvaidya,Std + M,vaidya.airtel
+vaidya,,Mobile,BSNL,,,,,http://portal.bsnl.in/portal/aspxfiles/login.aspx,vaidyarp,Std,vaidya.bsnl
+vaidya,,Note taking,Evernote,,,,,https://www.evernote.com/Login.action?targetUrl=%2FHome.action,rpvaidya,Std 2,vaidya.evernote.notetaking
+vaidya,,PII,eSeva Passport,,,,,http://esevaonline.com/,rpvaidya,Std,vaidya.eseva.pii
+vaidya,,PII,Passport Seva Kendra,,,,,https://portal2.passportindia.gov.in/AppOnlineProject/user/userLoginValidateAction?request_locale=en&amp;userName=RAGHAVENDRA.VAIDYA%40GMAIL.COM,RPVAIDYA,Std,vaidya.psk.pii
+vaidya,,PII,PF,,,,,http://uanmembers.epfoservices.in/index.php,1.00317E+11,Std 2,vaidya.pf.pii
+vaidya,,PII,Edumerge Amogh School Account,,,,,http://edumerge.com/,raghavendra.vaidya@gmail.com,,vaidya.edumerge.amogh
+vaidya,,PII,SAT Website,,,,,https://www.collegeboard.org/,arvaidya,Std,vaidya.sat.learn
+vaidya,,PII,NPS,,,,National Pension Scheme,http://cra-nsdl.com,1.10067E+11,Ilhs....p,vaidya.nps.pii
+vaidya,,Shopping,M&S Card,,,,,,,,vaidys.mands.shopping
+vaidya,,Shopping,Amazon login,,,,,https://amazon.com,raghavendra.vaidya@gmail.com,Sentence Nox,vaidya.amazon.shopping
+vaidya,,Shopping,eBay - India,,,,,https://signin.ebay.in,vaidya.raghavendra,Std,vaidya.ebayindia.shopping
+vaidya,,Shopping,Flipkart,,,,,http://www.flipkart.com/,raghavendra.vaidya@gmail.com,Std,vaidya.flipkart.shopping
+vaidya,,Shopping,India Time shopping,,,,,http://shopping.indiatimes.com/control/checkLogin,raghavendra.vaidya@gmail.com,Std 2,vaidya.indiatimes.shopping
+vaidya,,Shopping,Delyver,,,,,http://www.delyver.com/#login,9611510088,Std,vaidya.delyver.takeout
+vaidya,,Social Media,Twitter,,,,,https://twitter.com/oauth/authorize,raghavendra.vaidya@gmail.com,Std,vaidya.twitter.social
+vaidya,,Social Media,Facebook,,,,,https://www.facebook.com/login.php,raghavendra.vaidya@gmail.com,Std 2,vaidya.facebook.social
+vaidya,,Social Media,LinkedIn,,,,,https://www.linkedin.com/secure/login?session_redirect=http%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Ftrk%3Deml-plat-b-pro_txt-yir_1%26id%3D3131462,raghavendra.vaidya@gmail.com,Std,vaidya.linkedin.social
+vaidya,,Social Media,Instapaper,,,,,https://www.instapaper.com/,raghavendra.vaidya@gmail.com,Std,vaidya.instapaper.social
+vaidya,,Tax,Income Tax,,,,,https://incometaxindiaefiling.gov.in/portal/login.do,ABLPV8199D,Std 2,vaidya.tax.pii
+vaidya,61919809,Travel,Hertz Gold Card,,,,Raghavendra Vaidya,https://www.hertz.com/rentacar/reservation/,61919809,Sentence Nox,vaidya.hertz.travel
+vaidya,,Travel,India Railways,,,,,http://irctc.co.in,vaidyaragh,Std,vaidya.indianrailways.travel
+vaidya,251790,Travel,Club Mahindra,,,,,http://clubmahindra.com/ms_login.asp,154799,New Std + H,vaidya.clubmahindra.travel
+vaidya,,Travel,Indigo,,,,,http://book.goindigo.in,rpvaidya,Std,vaidya.indigo.travel
+vaidya,,Travel,Yatra,,,,,https://secure.yatra.com/checkout/newreviewpage.htm?productSearchId=e1754de5-7b93-417d-ae55-e75f04514afe,raghavendra.vaidya@gmail.com,Std,vaidya.yatra.travel
+vaidya,,Travel,Trip Case,,,,,https://www.tripcase.com/sessions?.r=1,raghavendra1.vaidya@ge.com,Std,vaidya.tripcase.travel
+vaidya,,Travel,Indigo,,,,,http://book.goindigo.in/skylights/cgi-bin/skylights.cgi,raghavendra.vaidya@gmail.com,Std 2,vaidya.indigo.travel
+vaidya,,Travel,Emirates,,,,,https://www.emirates.com/account/in/English/login/login.aspx?refUrl=%2faccount%2fin%2fEnglish%2fmanage-account%2fcontact-details%2findex.aspx%3fcid%3demail_mc_ADDR_CNFRM,raghavendra.vaidya@gmail.com,Std 2 + 5,vaidya.emirates.travel
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
